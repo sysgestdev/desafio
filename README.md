@@ -4,6 +4,11 @@
 
 Você foi contratado para desenvolver uma API RESTful para uma universidade fictícia que precisa gerenciar cursos, disciplinas, professores e alunos. A universidade quer um sistema onde seja possível registrar as informações desses elementos e realizar consultas para obter relatórios detalhados sobre o desempenho dos alunos em diferentes cursos e disciplinas.
 
+#Critérios de Avaliação
+### 1. Organização e Estrutura do Código:
+### 2. Domínio de Relacionamentos e Consultas:
+### 3. Conhecimento de Laravel:
+### 4. Documentação(Swagger):
 ## Objetivo
 
 Desenvolver uma API em Laravel que atenda aos requisitos abaixo. O foco está na criação de relacionamentos adequados entre tabelas, consultas complexas com múltiplos joins, e na criação de endpoints que respeitem os padrões RESTful.
@@ -129,9 +134,4 @@ Implemente um endpoint para obter um relatório detalhado de um **curso** com a 
   ]
 }
 
-#Critérios de Avaliação
-### 1. Organização e Estrutura do Código:
-### 2. Domínio de Relacionamentos e Consultas:
-### 3. Conhecimento de Laravel:
-### 4. Documentação(Swagger):
 
